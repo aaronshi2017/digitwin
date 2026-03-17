@@ -1,3 +1,5 @@
+i want to understand from this test, how digital twin concept is implemented and how such AI is kicked in? 
+
 Absolutely — your setup is a textbook example of a “Digital Twin + AI controller”” applied to networking, and the logs you just saw show it in action. Let’s break it down carefully:
 
 1️⃣ Digital Twin Concept in Your Test
